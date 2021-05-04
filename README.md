@@ -1,2 +1,1 @@
-# WordpressUniversityProject
-Wordpress University Project
+Ecommerce-University-Project
